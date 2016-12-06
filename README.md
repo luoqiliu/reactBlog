@@ -5,8 +5,7 @@
 #### Not work perfectly on mobile devices (especially those with small screen). Trying to fix that right now.
 
 #### Feature
-This is a single page application completely built using React.js & React Router. My personal [blog](http://ziorix.com) is hosted by Github Pages. All the `.md` files(as post content) is also loading using Ajax from Github. For detailed info, go to my [blog](http://ziorix.com) and check out the `How did I creat a blog System` series. 
-
+This is a react Blog
 #### How to install 
 1. git clone this project<br/>
 2. cd into the folder<br/>
